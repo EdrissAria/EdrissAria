@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm M.Edriss Aria Fullstack web developer
 
-👉 I'm 22 years old and currently studying Computer Science Major in Kabul University 📚 <br />
-👉 I have two years of experience in web designing and developing 😎 <br />
+👉 I'm 25 years old, graduated from Computer Science Field 👨‍🎓<br />
+👉 I have 4 years of experience in web designing and developing 😎 <br />
 👉 I love working with javascript specially javascript frameworks 😁 <br />
 📫 stay in touch:<br />
     • LinkedIn https://linkedin.com/in/EdrissAria<br />
